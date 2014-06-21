@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+<data>
+  <template id="assets_frontend" inherit_id="website.assets_frontend" name="My Theme Front End Assets">
+   <xpath expr="." position="inside">
+       <script src="/website_extra_snippets/static/js/circular_tab.js"></script>
+       <link rel="stylesheet" type="text/css" href="/website_extra_snippets/static/css/circular_tabs.css" />
+   </xpath>
+  </template>
+</data>
+</openerp>
+
