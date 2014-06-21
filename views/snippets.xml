@@ -8,7 +8,7 @@
                         <img class="oe_snippet_thumbnail_img" src="/website/static/src/img/blocks/block_separator.png" />
                         <span class="oe_snippet_thumbnail_title fw_primary">Circular Tabs</span>
                     </div>
-                    <section style="background:#efefe9;" class="oe_snippet_body mb16 mt16">
+                    <section style="background:#efefe9;" class="oe_snippet_body mb16 mt16 circular_tabs">
                             <div class="container">
                                 <div class="row">
                                     <div class="board">
